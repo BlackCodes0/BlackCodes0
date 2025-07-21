@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.instagram.com/karatasmuhammed1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@karatasmuhammed1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@BlackCodesxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blackcodes" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/nPeUQ5mmK8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nPeUQ5mmK8" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/vmGpNyTKXg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nPeUQ5mmK8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
